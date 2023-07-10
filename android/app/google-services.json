@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824819379852",
+    "project_id": "develop-medical-dictionary",
+    "storage_bucket": "develop-medical-dictionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824819379852:android:1876c3e5fcf7508c59d5a9",
+        "android_client_info": {
+          "package_name": "com.example.develop_medical_of_dictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824819379852-8ae9fds316j0qqraualq5luki2lj2d39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChFNyx26pcPwwMFfCaNcWsavV2JZhK5bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824819379852-8ae9fds316j0qqraualq5luki2lj2d39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
